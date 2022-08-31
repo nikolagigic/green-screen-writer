@@ -4,4 +4,4 @@ Greeen Screen with messaging like feature to communicate with your audience for 
 
 Install dependencies: `yarn install` or `npm i`
 
-To run it just: `yarn start` or `npm run start`
+Run it: `yarn start` or `npm run start`
